@@ -1,0 +1,33 @@
+// left = -135
+
+     /*  if(Jet.rotation>=-90 && Jet.rotation<=0)
+       {
+          Jet.setVelocity(2,-2)
+       }
+       else 
+       if(Jet.rotation>=-90 && Jet.rotation<=0)
+       {
+          Jet.setVelocity(2,-2)
+       }*/
+       
+     //Jet.rotation=left
+     //  right = -45
+      // left = left - 10
+ //========================
+    /*
+
+     }
+     //==============================
+     if(keyDown("down"))
+     {
+      Jet.setVelocity(0,2) 
+       right = -45
+       left = -135
+       
+       Jet.rotation=90
+     }*/
+     //=========================
+
+       // Jet.rotation=right
+      
+      // right=right+10
